@@ -1,0 +1,10 @@
+[package]
+name = "quran-rs-mutashabihat-matcher"
+version = "1.0.0"
+edition = "2021"
+description = "Quranic Mutashabihat Verbal Similarity N-Gram Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "quran_rs_mutashabihat_matcher"
+path = "main.rs"
